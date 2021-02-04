@@ -1,0 +1,29 @@
+---
+title: "partner.Rmd"
+author: "Nathan Marquardt"
+date: "2/4/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Information
+
+#### Name (Username)
+
+|     **Answer:** Nathan Marquardt (nwm98)
+
+#### What did the owner do on his most recent commit? What is the commit ID? 
+
+|     **Answer:** Mike on his most recent commit (da78f45) created a README file for his repo.
+  
+#### Knit the Owner's hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you encounter?
+
+|     **Answer:** I did not encounter any errors knitting Mike's hw1.Rmd file.
+  
+#### Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier.
+
+|     **Answer:** A tip I would give would be to make short, descriptive comments when committing and pushing an item to your repository. This will make it easier for others to view your code.
+
